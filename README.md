@@ -36,7 +36,7 @@ Live Website: https://dru-travels.web.app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/dru-travels.git
+git clone https://github.com/iam-chandru-selvam/Travel-Package-Booking
 ````
 
 ### 2. Install dependencies
@@ -108,3 +108,4 @@ Anna University, Chennai
 ## License
 
 This project is for educational and portfolio purposes only.
+
