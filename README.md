@@ -84,7 +84,15 @@ firebase deploy
 
 ## Screenshots
 
-(Add screenshots of your website here)
+<img width="1349" height="647" alt="image" src="https://github.com/user-attachments/assets/b9981a06-1f6e-4421-97a5-610a4864db28" />
+
+<img width="1350" height="647" alt="image" src="https://github.com/user-attachments/assets/6f6a5575-a2e4-47af-bcf2-35915f2ed605" />
+<img width="1353" height="611" alt="image" src="https://github.com/user-attachments/assets/934658b7-7f65-4521-a856-acd4669c0bd2" />
+<img width="1349" height="647" alt="image" src="https://github.com/user-attachments/assets/e75e44ac-c4d1-4781-8d37-d050f17f74b6" />
+<img width="1347" height="645" alt="image" src="https://github.com/user-attachments/assets/e5582e81-7a65-43a0-b0cf-c10ebeaf0f0f" />
+<img width="1348" height="648" alt="image" src="https://github.com/user-attachments/assets/9c6e5dc5-85c9-49a0-b81d-2678f7b0519e" />
+<img width="1351" height="646" alt="image" src="https://github.com/user-attachments/assets/00cfd09c-798e-4bab-8851-260d07668005" />
+
 
 ---
 
@@ -100,25 +108,3 @@ Anna University, Chennai
 ## License
 
 This project is for educational and portfolio purposes only.
-
-
-
----
-
-### How to use it (1 minute)
-1. Create a file named: `README.md`
-2. Paste this content
-3. Replace:
-   - `your-username` with your GitHub username
-4. Commit & push 🚀
-
----
-
-This README is:
-- Clean ✅  
-- Professional ✅  
-- Placement-friendly ✅  
-- Portfolio-ready ✅  
-
-Exactly what recruiters expect to see.
-
